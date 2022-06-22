@@ -1,2 +1,3 @@
 # My-python-codes
-All my python codes
+Codes for LFP and population level analysis in Python
+ 
